@@ -25,4 +25,14 @@ Engineering Student IN the branch of ECE
 <a href="https://www.linkedin.com/in/naveen-kumar-1361252b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveen-kumar-1361252b7" height="30" width="40" /></a>
 <a href="https://instagram.com/iam_naveen_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_naveen_17 height="30" width="40" /></a>
 
+<br></br>
+
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Naveenkumar-R96&show_icons=true&locale=en&layout=compact" alt="akansha2002" /></p>
+
+
+
+
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Naveenkumar-R96&" alt="akansha2002" /></p>
+
 
