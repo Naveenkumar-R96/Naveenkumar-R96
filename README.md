@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Akansha Aggarwal</h1>
-<h3 align="center">An IT Undergrad, Problem Solver and Web Developer</h3>
+<h1 align="center">Hi 👋, I'm Naveenkumar</h1>
+<h3 align="center">Engineering Student , Problem Solver and Web Developer</h3>
 
 Engineering Student IN the branch of ECE
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
