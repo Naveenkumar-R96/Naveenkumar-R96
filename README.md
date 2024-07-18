@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naveenkumar</h1>
-<h3 align="center">Engineering Student , Problem Solver and Web Developer</h3>
+<h3 align="center">Engineering Student , Problem Solver and  Becoming Web Developer</h3>
 
 Engineering Student IN the branch of ECE
 
@@ -9,9 +9,9 @@ Engineering Student IN the branch of ECE
 
 - 🌱 I’m currently learning Web Development
 
-- 👯 I’m looking to collaborate on Backen Developers
+- 👯 I’m looking to collaborate on Backend  Developers
   
-- 🤔 I’m looking for help with Placements in Infosys
+- 🤔 I’m looking for help with Placements
   
 - 💬 Ask me about Tech
   
