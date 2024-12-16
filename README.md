@@ -27,7 +27,6 @@ Engineering Student IN the branch of ECE
 
 <br></br>
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Naveenkumar-R96&show_icons=true&locale=en&layout=compact" alt="akansha2002" /></p>
 
 
 
