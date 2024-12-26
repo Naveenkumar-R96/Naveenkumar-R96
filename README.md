@@ -32,6 +32,16 @@ Engineering Student IN the branch of ECE
 
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Naveenkumar-R96&" alt="akansha2002" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Naveenkumar-R96" alt="Naveenkumar-R96" /></p>
+<br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenkumar-R96&hide=css,java,html&theme=tokyonight">
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenkumar-R96&theme=tokyonight">
+</p>
 
 
+
+### GITHUB TROPHIES
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Naveenkumar-R96)](https://github.com/ryo-ma/github-profile-trophy)<br>
+
+ 
