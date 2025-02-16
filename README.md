@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naveenkumar</h1>
 <h3 align="center">Engineering Student , Problem Solver and  Becoming Web Developer</h3>
 
-Engineering Student IN the branch of ECE
+Engineering Student In the branch of ECE
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
@@ -34,8 +34,8 @@ Engineering Student IN the branch of ECE
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Naveenkumar-R96" alt="Naveenkumar-R96" /></p>
 <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenkumar-R96&hide=css,java,html&theme=tokyonight">
- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenkumar-R96&theme=tokyonight">
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenkumar-R96&hide=css,html&theme=tokyonight">
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenkumar-R96&hide=handlebars&theme=tokyonight">
 </p>
 
 
