@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naveenkumar</h1>
-<h3 align="center">Engineering Student , Problem Solver and  Becoming Web Developer</h3>
+<h3 align="center">Engineering Student , Problem Solver and  Web Developer</h3>
 
 Engineering Student In the branch of ECE
 
@@ -15,14 +15,14 @@ Engineering Student In the branch of ECE
   
 - 💬 Ask me about Tech
   
-- 📫 How to reach me : Make a Star I will Contact you
+- 📫 How to reach me : Message in my Portfolio
   
-- ⚡ Fun fact: I know Frontend Development
+- ⚡ Fun fact: I know FullStack 
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/NaveenKumar__96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Naveenkumar__96" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/naveen-kumar-1361252b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveen-kumar-1361252b7" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/naveenkumar-r96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveen-kumar-1361252b7" height="30" width="40" /></a>
 <a href="https://instagram.com/iam_naveen_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_naveen_17 height="30" width="40" /></a>
 
 <br></br>
