@@ -1,47 +1,78 @@
-<h1 align="center">Hi 👋, I'm Naveenkumar</h1>
-<h3 align="center">Engineering Student , Problem Solver and  Web Developer</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#00d492">NaveenKumar</span></h1>
 
-Engineering Student In the branch of ECE
-
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-
-- 🔭 Here's my Email-nk946432@gmail.com
-
-- 🌱 I’m currently learning Web Development
-
-- 👯 I’m looking to collaborate on Backend  Developers
-  
-- 🤔 I’m looking for help with Placements
-  
-- 💬 Ask me about Tech
-  
-- 📫 How to reach me : Message in my Portfolio
-  
-- ⚡ Fun fact: I know FullStack 
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/NaveenKumar__96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Naveenkumar__96" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/naveenkumar-r96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveen-kumar-1361252b7" height="30" width="40" /></a>
-<a href="https://instagram.com/iam_naveen_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_naveen_17 height="30" width="40" /></a>
-
-<br></br>
-
-
-
-
-
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Naveenkumar-R96" alt="Naveenkumar-R96" /></p>
-<br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenkumar-R96&hide=css,html&theme=tokyonight">
- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenkumar-R96&hide=handlebars&theme=tokyonight">
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI%2FUX+Designer;Full+Stack+Developer" 
+    alt="Typing animation" 
+  />
 </p>
 
 
 
-### GITHUB TROPHIES
+<p align="center">
+  <img src="banner.gif" alt="Naveenkumar | Frontend Developer" width="100%" />
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Naveenkumar-R96)](https://github.com/ryo-ma/github-profile-trophy)<br>
 
- 
+
+
+### ⚡ MERN stack Developer | UI-Focused Frontend Engineer
+
+I’m a React & Next.js developer passionate about building **high-performance, scalable, and visually polished web applications**.  
+I specialize in **modern frontend architecture, animation-driven interfaces, and clean, maintainable code**.
+
+I enjoy turning complex ideas into **simple, intuitive user experiences** using the latest web technologies.
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveenkumar-r96/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nk946432@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,materialui,bootstrap,jquery,html,css,git,github,vite" alt="ts,js,react,tailwind,materialui,bootstrap,jquery,html,css,sass,git,github,vite,vscode,yarn,npm,pnpm,postman,nodejs,figma" />
+<img src="https://skillicons.dev/icons?i=,vscode,yarn,npm,pnpm,postman,nodejs,figma" alt=",vscode,yarn,npm,pnpm,postman,nodejs,figma" />
+<img src="https://cdn.simpleicons.org/reacthookform?viewbox=auto&size=40" alt="reacthookform" />
+<img src="https://cdn.simpleicons.org/axios?viewbox=auto&size=40" alt="axios" />
+<img src="https://cdn.simpleicons.org/i18next?viewbox=auto&size=40" alt="i18next" />
+</div>
+
+---
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://git.io/awesome-stats-card">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Naveenkumar-R96?cardType=level&theme=dark&preferLogin=true" height="175">
+  </a>
+  
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Naveenkumar-R96&theme=dark)
+</div>
+
+---
+
+
+## 🐍 GitHub Contributions
+
+<div align="center">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Naveenkumar-R96/Naveenkumar-R96/output/snake.svg" />
+</div>
+
+---
+
+
+
+
+## 🏅 Trophies & Activity
+
+<div align="center">
+  <img src='https://hacked-github-stat-trophies.vercel.app/?username=Naveenkumar-R96&theme=dark&column=11'>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveenkumar-R96&theme=github-dark&area=true&radius=16" height="300" />
+</div>
