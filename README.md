@@ -35,8 +35,8 @@ I enjoy turning complex ideas into **simple, intuitive user experiences** using 
 ## 💻 Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,materialui,bootstrap,jquery,html,css,git,github,vite" alt="ts,js,react,tailwind,materialui,bootstrap,jquery,html,css,sass,git,github,vite,vscode,yarn,npm,pnpm,postman,nodejs,figma" />
-<img src="https://skillicons.dev/icons?i=,vscode,yarn,npm,pnpm,postman,nodejs,figma" alt=",vscode,yarn,npm,pnpm,postman,nodejs,figma" />
+<img src="https://skillicons.dev/icons?i=java,js,react,express,mongodb,c,tailwind,materialui,bootstrap,jquery,html,css,git,github,vite" alt="ts,js,react,tailwind,materialui,bootstrap,jquery,html,css,sass,git,github,vite,vscode,yarn,npm,pnpm,postman,nodejs,figma" />
+<img src="https://skillicons.dev/icons?i=,vscode,eclipse,idea,npm,stackoverflow,pnpm,postman,nodejs,figma" alt=",vscode,yarn,npm,pnpm,postman,nodejs,figma" />
 <img src="https://cdn.simpleicons.org/reacthookform?viewbox=auto&size=40" alt="reacthookform" />
 <img src="https://cdn.simpleicons.org/axios?viewbox=auto&size=40" alt="axios" />
 <img src="https://cdn.simpleicons.org/i18next?viewbox=auto&size=40" alt="i18next" />
