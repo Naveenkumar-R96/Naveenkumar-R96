@@ -16,12 +16,17 @@
 
 
 
-### ⚡ MERN stack Developer | UI-Focused Frontend Engineer
+### ⚡ Java Full stack Developer | MERN Stack
 
-I’m a React & Next.js developer passionate about building **high-performance, scalable, and visually polished web applications**.  
-I specialize in **modern frontend architecture, animation-driven interfaces, and clean, maintainable code**.
+I am a Full Stack Developer and Final Year Engineering Student with a strong interest in building scalable, user-focused web applications and backend systems. I enjoy turning ideas into real-world products by combining clean frontend design with efficient backend architecture.
 
-I enjoy turning complex ideas into **simple, intuitive user experiences** using the latest web technologies.
+I have hands-on experience with React, Node.js, Express.js, MongoDB, Java, Spring, Spring Boot, and Hibernate, along with API integration and web scraping. I am expanding my backend development expertise by building RESTful APIs, implementing CRUD operations, connecting applications with databases, and understanding backend architecture using Spring Boot and Hibernate.
+
+Over time, I have built multiple projects, including a food ordering application, an AI-powered chatbot, a movie explorer application, and an automated result scraper that solves real-world problems. I have also worked on full stack applications integrating frontend interfaces with backend services and databases.
+
+I continuously improve my problem-solving skills through Data Structures and Algorithms and strengthen my understanding of Java backend development, object-oriented programming, and database management. My goal is to become a well-rounded Full Stack Developer capable of developing reliable, maintainable, and scalable applications.
+
+I am always open to learning new technologies, solving challenging problems, and contributing to meaningful software projects.
 
 ---
 
